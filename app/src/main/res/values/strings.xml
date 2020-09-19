@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Text</string>
+    <string name="app_name">myFirstApp</string>
     <string name="button_send">Send</string>
-    <string name="button">Button</string>
+    <string name="button">Send</string>
     <string name="editText">Enter a Message</string>
     <string name="output">TextView</string>
 
